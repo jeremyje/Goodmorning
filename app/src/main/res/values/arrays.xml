@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string-array name="pref_units_options">
-        <item>@string/pref_units_label_metric</item>
-        <item>@string/pref_units_label_imperial</item>
+    <string-array name="nav_mode_options">
+        <item>@string/nav_mode_label_drive</item>
+        <item>@string/nav_mode_label_walk</item>
+        <item>@string/nav_mode_label_bike</item>
     </string-array>
 
-    <string-array name="pref_units_values">
-        <item>@string/pref_units_metric</item>
-        <item>@string/pref_units_imperial</item>
+    <string-array name="nav_mode_values">
+        <item>@string/nav_mode_drive</item>
+        <item>@string/nav_mode_walk</item>
+        <item>@string/nav_mode_bike</item>
     </string-array>
 </resources>
